@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443102943726",
+    "project_id": "skizzishoppingapp",
+    "storage_bucket": "skizzishoppingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443102943726:android:8033044912b401552916ff",
+        "android_client_info": {
+          "package_name": "com.ainnovations.skizzishoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6F6i9kLMhX-1ioD5wnbXuou_2yx1rimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
